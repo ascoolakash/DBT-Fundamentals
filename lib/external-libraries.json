@@ -4,6 +4,10 @@
       "remote": "git@github.com:ascoolakash/DBT-Fundamentals.git",
       "checkout": "refs/heads/fundamentals-practice",
       "remotePath": "",
+      "lastHash": "8d8632ca78458fa4c76364c2aa18650f8ad53e18",
+      "conflictingFiles": [],
+      "resolvedFiles": [],
+      "faultyHash": "",
       "isDirty": false
     }
   },
