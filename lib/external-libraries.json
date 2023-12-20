@@ -1,7 +1,15 @@
 {
-  "gitReferences": {},
+  "gitReferences": {
+    "demo": {
+      "remote": "git@github.com:ascoolakash/DBT-Fundamentals.git",
+      "checkout": "refs/heads/fundamentals-practice",
+      "remotePath": "",
+      "isDirty": false
+    }
+  },
   "pythonPath": [
-    "python"
+    "python",
+    "demo"
   ],
   "rsrcPath": [
     "R"
