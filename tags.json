@@ -1,17 +1,23 @@
 {
   "tags": {
-    "within_dss:General Topics": {},
+    "within_dss:General Topics": {
+      "color": "#123883"
+    },
     "recipe-editor": {
       "color": "#1ac2ab"
     },
-    "section:Advanced Designer": {},
+    "section:Advanced Designer": {
+      "color": "#90a8b7"
+    },
     "duplicated": {
       "color": "#3A85AD"
     },
     "deleted-recipe-editor": {
       "color": "#90a8b7"
     },
-    "downloads": {},
+    "downloads": {
+      "color": "#de1ea5"
+    },
     "imported": {
       "color": "#263238"
     },
@@ -21,12 +27,20 @@
     "tutorial": {
       "color": "#FFC425"
     },
-    "section:General Topics": {},
-    "section:Core Designer": {},
+    "section:General Topics": {
+      "color": "#de1ea5"
+    },
+    "section:Core Designer": {
+      "color": "#0f6d82"
+    },
     "creator:admin": {
       "color": "#28aadd"
     },
-    "gallery": {},
-    "academy": {}
+    "gallery": {
+      "color": "#FFD83D"
+    },
+    "academy": {
+      "color": "#d66b9b"
+    }
   }
 }
