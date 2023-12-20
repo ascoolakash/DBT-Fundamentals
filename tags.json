@@ -1,0 +1,32 @@
+{
+  "tags": {
+    "within_dss:General Topics": {},
+    "recipe-editor": {
+      "color": "#1ac2ab"
+    },
+    "section:Advanced Designer": {},
+    "duplicated": {
+      "color": "#3A85AD"
+    },
+    "deleted-recipe-editor": {
+      "color": "#90a8b7"
+    },
+    "downloads": {},
+    "imported": {
+      "color": "#263238"
+    },
+    "creator:alex": {
+      "color": "#1ac2ab"
+    },
+    "tutorial": {
+      "color": "#FFC425"
+    },
+    "section:General Topics": {},
+    "section:Core Designer": {},
+    "creator:admin": {
+      "color": "#28aadd"
+    },
+    "gallery": {},
+    "academy": {}
+  }
+}
