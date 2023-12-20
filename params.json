@@ -153,7 +153,7 @@
               "useProxy": true,
               "username": "ascoolakash",
               "accessToken": "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",
-              "repository": "https://github.com/ascoolakash/DBT-Fundamentals.git"
+              "repository": "git@github.com:ascoolakash/DBT-Fundamentals.git"
             }
           }
         }
