@@ -144,7 +144,20 @@
     "gitCommitMode": "AUTO",
     "disableAutomaticTriggers": false,
     "integrations": {
-      "integrations": []
+      "integrations": [
+        {
+          "active": true,
+          "hook": {
+            "type": "github",
+            "configuration": {
+              "useProxy": true,
+              "username": "ascoolakash",
+              "accessToken": "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",
+              "repository": "https://github.com/ascoolakash/DBT-Fundamentals.git"
+            }
+          }
+        }
+      ]
     },
     "flowBuildSettings": {
       "mergeSparkPipelines": false,
@@ -181,13 +194,11 @@
     "codeEnvs": {
       "python": {
         "mode": "INHERIT",
-        "preventOverride": false,
-        "envName": "Python36"
+        "preventOverride": false
       },
       "r": {
         "mode": "INHERIT",
-        "preventOverride": false,
-        "envName": "dku_haiku"
+        "preventOverride": false
       },
       "julia": {
         "mode": "INHERIT",
